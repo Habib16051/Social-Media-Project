@@ -13,5 +13,9 @@ Login Page: For login, you have to insert your username and password to login in
 
 ![image](https://user-images.githubusercontent.com/39822204/216244032-6c20623c-4180-488f-8e91-5afb3e254f8e.png)
 
+User Profile: Here is the user profile where anyone can see his number of posts, followers, Following etc.
+![image](https://user-images.githubusercontent.com/39822204/216244567-6fd75f65-34e1-4eca-b299-037a11096942.png)
+
+
 
 
