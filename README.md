@@ -17,5 +17,10 @@ User Profile: Here is the user profile where anyone can see his number of posts,
 ![image](https://user-images.githubusercontent.com/39822204/216244567-6fd75f65-34e1-4eca-b299-037a11096942.png)
 
 
+Search User: U can find the existing user using by the search option
+![image](https://user-images.githubusercontent.com/39822204/216245321-66a45c69-a6a7-478f-b569-6172e5f3fd9b.png)
+
+
+
 
 
